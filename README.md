@@ -1,1 +1,1 @@
-# PyQT6_for_Mac_Linux
+# PyQT6 for Mac or Linux
